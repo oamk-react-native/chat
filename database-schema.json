@@ -1,0 +1,55 @@
+{
+  "users": {
+    "jouni.juntunen@oamk.fi": {
+      "nickname": "jjuntune",
+      "groups": ["-MlpiWY8fbm3tG6ixQOG","-MlpiWY8fbm3tG6ixQOH"]
+    },
+    "pekka.ojala@oamk.fi": {
+      "nickname": "pojala",
+      "groups": ["-MlpiWY8fbm3tG6ixQOG"]
+    }
+  },
+  "groups": {
+    "-MlpiWY8fbm3tG6ixQOG": {
+      "created": "",
+      "name": "test"
+    },
+    "-MlpiWY8fbm3tG6ixQOH": {
+      "created": "",
+      "name": "test 2"
+    }
+  },
+  "discussions": {
+    "-MlpiWY8fbm3tG6ixQOP": {
+
+      "lastEntry": "",
+      "participants": [
+        "jouni.juntunen@oamk.fi",
+        "pekka.ojala@oamk.fi"
+      ],
+      "messages": [
+        {
+          "from": "jouni.juntunen@oamk.fi",
+          "to": "pekka.ojala@oamk.fi",
+          "created": "",
+          "text": ""
+        }
+      ]
+    },
+    "-MlpiWY8fbm3tG6ixQOX": {
+      "participants": [
+        "-MlpiWY8fbm3tG6ixQOG"
+      ],
+      "messages": [
+        {
+          "from": "jjuntune",
+          "to":"test",
+          "created": "",
+          "text": "",
+          "image": "test.png"
+        }
+      ]
+    }
+  }
+}
+  
